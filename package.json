@@ -1,5 +1,5 @@
 {
-  "name": "covid10-dio",
+  "name": "covid19-dio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-scripts build",
+    "build": "react-app-rewired build",
     "eslint": "eslint --ext .jsx,.js src"
   },
   "eslintConfig": {
